@@ -1,0 +1,13 @@
+/*
+Theme Name: Meu tema
+Theme URI: http://blablabla.com
+Description: BS theme
+Version: 1
+Author: Miguel
+Authors URI: http://blablabla.com
+*/
+
+@import url('css/bootstrap.min.css');
+@import url('css/mystyles.css');
+@import url('css/font-awesome.min.css');
+@import url('css/bootstrap-social.css');
